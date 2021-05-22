@@ -11,6 +11,7 @@ namespace AppsSeries
         private int Ano {get; set;}
         private bool Esta_Lancando {get; set;}
         private int Episodios{get; set;}
+        private bool Excluido {get; set;}
 
         public Serie(string Titulo, Genero Genero, string Descricao, int Ano, bool lancando, int episodios)
         {
@@ -20,6 +21,7 @@ namespace AppsSeries
             this.Ano = Ano;
             this.Esta_Lancando = lancando;
             this.Episodios = episodios;
+            this.Excluido = false;
         }
 
         public override string ToString()
@@ -40,6 +42,10 @@ namespace AppsSeries
 
         public int retornaId (){
             return this.id;
+        }
+
+        public void Excluir(){
+            this.Excluido = true;
         }
     }
 }

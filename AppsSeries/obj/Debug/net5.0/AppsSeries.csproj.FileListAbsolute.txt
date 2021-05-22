@@ -1,0 +1,16 @@
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\bin\Debug\net5.0\AppsSeries.exe
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\bin\Debug\net5.0\AppsSeries.deps.json
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\bin\Debug\net5.0\AppsSeries.runtimeconfig.json
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\bin\Debug\net5.0\AppsSeries.runtimeconfig.dev.json
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\bin\Debug\net5.0\AppsSeries.dll
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\bin\Debug\net5.0\ref\AppsSeries.dll
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\bin\Debug\net5.0\AppsSeries.pdb
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\AppsSeries.csprojAssemblyReference.cache
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\AppsSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\AppsSeries.AssemblyInfoInputs.cache
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\AppsSeries.AssemblyInfo.cs
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\AppsSeries.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\AppsSeries.dll
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\ref\AppsSeries.dll
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\AppsSeries.pdb
+C:\Users\gilbe\Documents\MeuProjeto\AppSeries\AppsSeries\AppsSeries\AppsSeries\obj\Debug\net5.0\AppsSeries.genruntimeconfig.cache
