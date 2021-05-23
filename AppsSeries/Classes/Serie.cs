@@ -9,18 +9,15 @@ namespace AppsSeries
         private string Titulo {get; set;}
         private string Descricao {get; set;}
         private int Ano {get; set;}
-        private bool Esta_Lancando {get; set;}
-        private int Episodios{get; set;}
         private bool Excluido {get; set;}
 
-        public Serie(string Titulo, Genero Genero, string Descricao, int Ano, bool lancando, int episodios)
+        public Serie(int id,string Titulo, Genero Genero, string Descricao, int Ano, int episodios)
         {
-            this.Titulo = Titulo;
+            this.id = id; 
             this.Genero = Genero;
-            this.Descricao = Descricao;
+            this.Titulo = Titulo;
             this.Ano = Ano;
-            this.Esta_Lancando = lancando;
-            this.Episodios = episodios;
+            this.Descricao = Descricao;
             this.Excluido = false;
         }
 
@@ -31,8 +28,6 @@ namespace AppsSeries
             retorno = "Gênero: " + this.Titulo + Environment.NewLine;
             retorno = "Descrição: " + this.Descricao + Environment.NewLine;
             retorno = "Ano de lançamento: " + this.Ano + Environment.NewLine;
-            retorno = "Esta em lançamento: " + this.Esta_Lancando + Environment.NewLine;
-            retorno = "quantidade de Episodios: " + this.Episodios + Environment.NewLine;
             return retorno;
         }
 
@@ -42,6 +37,10 @@ namespace AppsSeries
 
         public int retornaId (){
             return this.id;
+        }
+
+        public bool retornaExcluido(){
+            return this.Excluido;
         }
 
         public void Excluir(){
